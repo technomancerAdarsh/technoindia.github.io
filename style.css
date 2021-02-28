@@ -214,7 +214,8 @@ Header {
 /* home section styling */
 .home{
     display: flex;
-    background: url("office1.jpg") no-repeat center;
+    background: url("tech.jpg") no-repeat center;
+    opacity:0.9;
     height: 100vh;
     color: #000;
     min-height: 500px;
