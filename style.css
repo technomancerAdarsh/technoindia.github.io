@@ -337,7 +337,7 @@ Header {
 }
 .services .title::after{
     background: #111;
-    content: "what we provide";
+    content: "Available";
 }
 #team .title::before{
     background: #fff;
