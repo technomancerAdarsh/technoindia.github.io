@@ -677,6 +677,11 @@ footer span a:hover{
         display: grid;
         text-align: inherit;
     }
+    .foot .foot3 ul li{
+       display:inline;
+       margin:4px;
+        
+    }
 }
 
 footer span{
