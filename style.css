@@ -216,7 +216,7 @@ Header {
     display: flex;
     background: url("tech.jpg") no-repeat center;
     opacity:0.9;
-    height: 100vh;
+    height: 80vh;
     color: #000;
     min-height: 500px;
     background-size: cover;
